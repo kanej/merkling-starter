@@ -1,0 +1,23 @@
+{
+  "name": "merkling-starter",
+  "version": "0.1.0",
+  "description": "A reference project for getting started with merkling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanej/merkling-starter.git"
+  },
+  "keywords": [
+    "merkling",
+    "ipfs"
+  ],
+  "author": "John Kane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kanej/merkling-starter/issues"
+  },
+  "homepage": "https://github.com/kanej/merkling-starter#readme"
+}
